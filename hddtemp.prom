@@ -1,0 +1,2 @@
+hddtemp_temperature_celsius{disk="/dev/sda"} 7
+hddtemp_temperature_celsius{disk="/dev/sdb"} 16
